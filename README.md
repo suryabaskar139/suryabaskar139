@@ -1,15 +1,14 @@
 ## 👋 Hey there, I'm Surya Baskar
 
-**Front End Developer** @ Cognizant Technology Solutions  
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=suryabaskar139.suryabaskar139)
+
+**Junior Software Engineer** @ Cognizant Technology Solutions  
 🎯 Passionate about building scalable, performant React applications
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Currently working on complex insurance domain apps with React, .NET Core, and SQL Server
-- 🌱 Learning more about system design and Next.js
-- 💡 Exploring AI tools to improve frontend workflows
-- 👨‍🏫 I love mentoring peers and breaking down DSA concepts
-- 🎓 Engineering graduate from Hindusthan College of Engineering and Technology
+- 🌱 Learning more about Raect System design and Next.js
 - 📍 Based in Bengaluru, India
 
 ### 🧠 Tech Stack & Tools
